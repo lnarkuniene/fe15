@@ -6,7 +6,7 @@ body{
    font-family: 'Lora', serif;
 }
 .Header3{
- background-image: url(IMG/99.jpg);
+ background-image: url(99.jpg);
  width: 500px;
  height: 500px;
  background-size: cover;
@@ -15,7 +15,7 @@ body{
  border-style: double;
 }
 .IMG1{
-  background-image: url(IMG/img10.jpg);
+  background-image: url(img10.jpg);
   width: 500px;
   height: 500px;
   background-size: cover;
