@@ -1,0 +1,53 @@
+body{
+  background-color: #D5EEBB;
+  /* background-image: url(IMG/m.jpg); */ */
+  background-repeat: no-repeat;
+  color: #206A5D;
+   font-family: 'Lora', serif;
+}
+.Header3{
+ background-image: url(IMG/99.jpg);
+ width: 500px;
+ height: 500px;
+ background-size: cover;
+ border: 15px solid #D5EEBB;
+ border-radius: 20px;
+ border-style: double;
+}
+.IMG1{
+  background-image: url(IMG/img10.jpg);
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  border: 15px solid #D5EEBB;
+  border-radius: 20px;
+  border-style: double;
+}
+
+ .Header2{
+   font-family: 'Lora', serif;
+padding: 25px;
+/* margin-left: 10px; */
+border: 3px solid black;
+border-style: double;
+border-radius: 50px;
+ }
+ .l{
+   list-style-type: square;
+ }
+.Hobby{
+ margin-top: 20px;
+ padding: 10px;
+ /* text-align: center; */
+}
+ .IM{
+   margin-top: 20px;
+   padding: 20px;
+ }
+
+
+.join{
+  display: inline-block;
+  width: auto;
+  height: auto;
+} */ */
